@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumitkosta001/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sumitkosta001/My-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sumitkosta001/My-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
